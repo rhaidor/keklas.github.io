@@ -14,8 +14,9 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: -425px;
+  margin-top: -745px;
   width: 33%;
+  height: 100%;
 }
 
 #angol {
@@ -44,4 +45,25 @@ img {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 60px;
   margin-left: 1300px;
+}
+
+#china {
+  color: yellow;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 60px;
+  margin-left: 300px;
+}
+
+#french {
+  color: yellow;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 60px;
+  margin-left: 1400px;
+}
+
+#rus {
+  color: yellow;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 60px;
+  margin-left:10px;
 }
